@@ -3,3 +3,5 @@ A basic esp script that allows you to configure a board to send a signal when a 
 Also supports editing from modbus.
 
 Don't forget to configure the pins you want; and the read analog section math, I left them according to what I used. 
+
+This was made with arduino ide 2.3.7 nightly
